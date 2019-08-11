@@ -37,7 +37,7 @@ namespace SimpleCNN_With_Winform {
             }
             return Dir[maxIndex];
         }
-        /*
+        /* 暂时还不能用
         public static List<string> GetResult(string[] imagePaths)
         {
             if (Dir == null)
